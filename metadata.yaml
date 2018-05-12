@@ -1,0 +1,37 @@
+_repo: Contemporary-Russian-Novelists_31503
+_version: 0.1.0
+alternative_title: Les maîtres du roman russe contemporain. English
+contributor:
+  translator:
+    agent_name: Eisemann, Frederick
+    gutenberg_agent_id: '35276'
+    url: http://www.gutenberg.org/2009/agents/35276
+covers:
+- cover_type: archival
+  image_path: 31503-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Persky, Serge
+    birthdate: 1870
+    deathdate: 1938
+    gutenberg_agent_id: '35275'
+    url: http://www.gutenberg.org/2009/agents/35275
+description: ''
+gutenberg_issued: '2010-03-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31503'
+  lccn: '13020230'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Russian fiction -- History and criticism'
+- !lcc 'PG'
+- !lcsh 'Novelists, Russian'
+tableOfContents: A brief survey of Russian literature -- Anton Tchekoff -- Valdimir
+  Korolenko -- Vikenty Veressayev -- Maxim Gorky -- Leonid Andreyev -- Dmitry Merezhkovsky
+  -- Alexander Kuprin -- Writers in vogue -- Notes.
+title: Contemporary Russian Novelists
+url: http://www.gutenberg.org/ebooks/31503
